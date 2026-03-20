@@ -4,7 +4,7 @@
 
 
 # RFecho PDF Intelligent Extraction and Generation Tool
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 An automated PDF processing tool tailored for the electronic component industry. It can batch extract product information (tables, images, text) from PDFs and generate standardized English product datasheets based on customizable templates.
 
