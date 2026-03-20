@@ -286,8 +286,3 @@ This project is open source under the MIT License. See the [LICENSE](LICENSE) fi
 3. Commit your changes (`git commit -m 'Add some amazing feature'`).
 4. Push to the branch (`git push origin feature/amazing-feature`).
 5. Open a Pull Request.
-
-## Contact
-For questions/suggestions, please contact:
-- GitHub Issues: [Submit an issue](https://github.com/your-username/rfecho-pdf-generator/issues)
-- Email: your-email@example.com
